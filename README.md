@@ -17,4 +17,4 @@ it's simply a magisk module to system-ize them.
 - **Lawnchair team** for their awesome work.
 
 ## Download
-get latest build directly from <a href="https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/releases/latest">here</a>
+get latest [here](https://github.com/ahmad-khalili/Lawnchair/releases/latest)
